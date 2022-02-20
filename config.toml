@@ -1,0 +1,20 @@
+title = "iKeepo: Developer & Entrepreneur"
+base_url = "https://www.iKeepo.com"
+description = "iKeepo blog"
+
+generate_feed = true
+feed_filename = "rss.xml"
+
+compile_sass = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "cheerfully-light"
+
+[link_checker]
+skip_anchor_prefixes = [
+    "https://github.com/",
+]
+
+[extra]
+author = "iKeepo"
