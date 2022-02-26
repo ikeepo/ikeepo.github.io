@@ -1,5 +1,5 @@
-title = "iKeepo: Developer & Entrepreneur"
-base_url = "https://www.iKeepo.com"
+title = "iKeepo"
+base_url = "https://ikeepo.github.io/"
 description = "iKeepo blog"
 
 generate_feed = true
