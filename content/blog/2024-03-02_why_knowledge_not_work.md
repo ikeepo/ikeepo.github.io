@@ -11,6 +11,9 @@ description = "Why knowledge is not the power anymore, because it‘s no longer 
 ### 知识爆炸下需要什么样的教程
 codecrafters是我非常赞同且让我快速成长的平台，它这种build a {product} by yourself的模式就是一种产品思维。
 直接生产产品，是能串起知识与隐形细节的最佳方式。
+### 学者研究与现实的差异
+这也是学者为什么经常出错，经济学家无法准确判断。
+因为他们看到的只是一个skeleton。
 ## 产品是工作人的主线索引
 产品思维，是工作人应时刻用于警醒自己的认知基础。   
 你的工作是在创造一个什么产品？当下的事情是为完成产品而贡献了什么？  
