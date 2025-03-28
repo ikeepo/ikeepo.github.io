@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://ikeepo.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://ikeepo.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://ikeepo.github.io/blog/accuracy-is-efficiency/</loc>
+        <lastmod>2024-03-06</lastmod>
+    </url>
+    <url>
+        <loc>https://ikeepo.github.io/blog/rust-springup-statistics-programminglanguage/</loc>
+        <lastmod>2022-02-20</lastmod>
+    </url>
+    <url>
+        <loc>https://ikeepo.github.io/blog/why-knowledge-not-work/</loc>
+        <lastmod>2024-03-02</lastmod>
+    </url>
+</urlset>
