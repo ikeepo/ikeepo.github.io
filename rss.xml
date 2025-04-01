@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>iKeepo</title>
+      <link>https://ikeepo.github.io/</link>
+      <description>iKeepo blog</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://ikeepo.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>准确性就是效率</title>
+          <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://ikeepo.github.io/blog/accuracy-is-efficiency/</link>
+          <guid>https://ikeepo.github.io/blog/accuracy-is-efficiency/</guid>
+          <description>&lt;h1 id=&quot;xiao-lu-de-di-yi-zhang-ai-shi-zhun-que-xing&quot;&gt;效率的第一障碍是准确性&lt;a class=&quot;zola-anchor&quot; href=&quot;#xiao-lu-de-di-yi-zhang-ai-shi-zhun-que-xing&quot; aria-label=&quot;Anchor link for: xiao-lu-de-di-yi-zhang-ai-shi-zhun-que-xing&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;p&gt;打字的准确性，定位问题的准确性，查找解决方案的准确性。。。&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>为什么知识不再是力量</title>
+          <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://ikeepo.github.io/blog/why-knowledge-not-work/</link>
+          <guid>https://ikeepo.github.io/blog/why-knowledge-not-work/</guid>
+          <description>&lt;h2 id=&quot;yu-chan-chu-er-yan-yan-mei-yu-zhi-shi-huan-shi-dou-yin-bing-wu-chai-yi&quot;&gt;于产出而言，淹没于知识还是抖音，并无差异&lt;a class=&quot;zola-anchor&quot; href=&quot;#yu-chan-chu-er-yan-yan-mei-yu-zhi-shi-huan-shi-dou-yin-bing-wu-chai-yi&quot; aria-label=&quot;Anchor link for: yu-chan-chu-er-yan-yan-mei-yu-zhi-shi-huan-shi-dou-yin-bing-wu-chai-yi&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;技术本身是不值钱的，技术+管理才有价值，这是几年前听一个传统企业高管在谈到技术转让时候讲的。当时以为是一种对外的话术，现在回想，是有道理的。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;zhi-shi-shi-zhen-zhu-wen-ti-shi-xian-zu-he-zai-yi-qi-de-xiang-lian-shi-chan-pin&quot;&gt;知识是珍珠，问题是线，组合在一起的项链是产品&lt;a class=&quot;zola-anchor&quot; href=&quot;#zhi-shi-shi-zhen-zhu-wen-ti-shi-xian-zu-he-zai-yi-qi-de-xiang-lian-shi-chan-pin&quot; aria-label=&quot;Anchor link for: zhi-shi-shi-zhen-zhu-wen-ti-shi-xian-zu-he-zai-yi-qi-de-xiang-lian-shi-chan-pin&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;大珠小珠落玉盘是杂乱无章的水贝论斤称，问题是一团乱麻，细心梳理、逻辑连贯串在一起创造出无数形态美好的项链，就是做成的产品，有了更高的交换价值。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;zhi-shi-yu-chan-pin-zhi-jian-de-chai-yi&quot;&gt;知识与产品之间的差异&lt;a class=&quot;zola-anchor&quot; href=&quot;#zhi-shi-yu-chan-pin-zhi-jian-de-chai-yi&quot; aria-label=&quot;Anchor link for: zhi-shi-yu-chan-pin-zhi-jian-de-chai-yi&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;知识是一种高级抽象，具体的实现只是遵循这个skeleton，但是具体的实现（产品）中有很多细节是未被知识这种抽象所描述的，这也是为什么纸上得来终觉浅，因为纸上是不完整的，是缺了适应性的心法秘籍。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;zhi-shi-bao-zha-xia-xu-yao-shi-yao-yang-de-jiao-cheng&quot;&gt;知识爆炸下需要什么样的教程&lt;a class=&quot;zola-anchor&quot; href=&quot;#zhi-shi-bao-zha-xia-xu-yao-shi-yao-yang-de-jiao-cheng&quot; aria-label=&quot;Anchor link for: zhi-shi-bao-zha-xia-xu-yao-shi-yao-yang-de-jiao-cheng&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;codecrafters是我非常赞同且让我快速成长的平台，它这种build a {product} by yourself的模式就是一种产品思维。
+直接生产产品，是能串起知识与隐形细节的最佳方式。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;xue-zhe-yan-jiu-yu-xian-shi-de-chai-yi&quot;&gt;学者研究与现实的差异&lt;a class=&quot;zola-anchor&quot; href=&quot;#xue-zhe-yan-jiu-yu-xian-shi-de-chai-yi&quot; aria-label=&quot;Anchor link for: xue-zhe-yan-jiu-yu-xian-shi-de-chai-yi&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;这也是学者为什么经常出错，经济学家无法准确判断。
+因为他们看到的只是一个skeleton。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;chan-pin-shi-gong-zuo-ren-de-zhu-xian-suo-yin&quot;&gt;产品是工作人的主线索引&lt;a class=&quot;zola-anchor&quot; href=&quot;#chan-pin-shi-gong-zuo-ren-de-zhu-xian-suo-yin&quot; aria-label=&quot;Anchor link for: chan-pin-shi-gong-zuo-ren-de-zhu-xian-suo-yin&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;产品思维，是工作人应时刻用于警醒自己的认知基础。&lt;br &#x2F;&gt;
+你的工作是在创造一个什么产品？当下的事情是为完成产品而贡献了什么？&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ren-ji-jiao-hu-de-ben-zhi-shi-jie-zhi-jiao-huan&quot;&gt;人际交互的本质是价值交换&lt;a class=&quot;zola-anchor&quot; href=&quot;#ren-ji-jiao-hu-de-ben-zhi-shi-jie-zhi-jiao-huan&quot; aria-label=&quot;Anchor link for: ren-ji-jiao-hu-de-ben-zhi-shi-jie-zhi-jiao-huan&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;人际交互的本质是价值交换，这句话没错，然其是一种表述性认知，而是指引性原则。&lt;br &#x2F;&gt;
+当理解这句话，容易让人误以为创造价值就足够了，忽视了价值交换的形态。&lt;br &#x2F;&gt;
+工作中完成公司的一部分内容，创造一个局部价值，公司给予高工资，这也完美符合此描述。但是为什么所有打工人都会紧张自己失业？&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;chan-pin-shi-she-jiao-de-ji-ben-pan&quot;&gt;产品是社交的基本盘&lt;a class=&quot;zola-anchor&quot; href=&quot;#chan-pin-shi-she-jiao-de-ji-ben-pan&quot; aria-label=&quot;Anchor link for: chan-pin-shi-she-jiao-de-ji-ben-pan&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;社交，作为互通有无的一种存在，是以产品为背书的。&lt;br &#x2F;&gt;
+技术人员没有社交，根本上是因为其技术只是一个产品的一部分，而无法作为一个整体与他人进行交互。
+d#### 为什么很多程序员大V是前端
+这不算一个精确的表达，未做过数据验证。&lt;br &#x2F;&gt;
+直观上，很多程序员大V是前端，这是因为前端容易出产品，容易被人记住。这里的核心还是，前端容易与产品绑定。&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;da-ge-ming-shi-dai-de-ren-wu-duo-shi-bao-kan-da-ren&quot;&gt;大革命时代的人物多是报刊达人&lt;a class=&quot;zola-anchor&quot; href=&quot;#da-ge-ming-shi-dai-de-ren-wu-duo-shi-bao-kan-da-ren&quot; aria-label=&quot;Anchor link for: da-ge-ming-shi-dai-de-ren-wu-duo-shi-bao-kan-da-ren&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;法国大革命期间的很多风云人物是办报刊起步的；斯大林是写的文章被列宁欣赏而进京的；&lt;br &#x2F;&gt;
+这些逻辑也是产品逻辑，因为有一个产品。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;it-s-a-good-method-to-format-knowledge&quot;&gt;It&#x27;s a good method to format knowledge&lt;a class=&quot;zola-anchor&quot; href=&quot;#it-s-a-good-method-to-format-knowledge&quot; aria-label=&quot;Anchor link for: it-s-a-good-method-to-format-knowledge&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;在制作产品的思维框架下，应该如何组织知识就成为一个相对简单的事情：产品导向、结果导向。&lt;br &#x2F;&gt;
+当下世界，知识的体量实在过于庞大，即便是AI这种可以称为“掌握自人类有历史以来所有的知识，所有时间内、所有领域内”的智能体，也要面对处理异常值的成本balance。&lt;br &#x2F;&gt;
+知识不再是力量，解决当下问题的知识才是力量，但当下的问题是谁的问题？解决完对谁有利？&lt;br &#x2F;&gt;
+产品思维可以用于框定这个范围。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;cheng-xu-yuan-ru-he-zuo-chan-pin&quot;&gt;程序员如何做产品&lt;a class=&quot;zola-anchor&quot; href=&quot;#cheng-xu-yuan-ru-he-zuo-chan-pin&quot; aria-label=&quot;Anchor link for: cheng-xu-yuan-ru-he-zuo-chan-pin&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;首先，后端程序员要去学好前端，要把自己思考的内容通过交互的方式展示出来，没有这个环节，你没有东西拿出手与人交流。&lt;br &#x2F;&gt;
+先出一个样板内容，之后就可以迭代更新。&lt;br &#x2F;&gt;
+本质上，博客也是这么一个东西，只是时代进化到现在，博客已经没有什么吸引力，以后需要是工具。&lt;br &#x2F;&gt;
+程序员要做工具。
+因此这个路线图中必备：&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;前端，哪种无所谓nextjs之类&lt;&#x2F;li&gt;
+&lt;li&gt;网络编程, 这个是从技术层面看这个事情的必须&lt;&#x2F;li&gt;
+&lt;li&gt;操作系统, 了解了操作系统就了解了编程这个概念&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h3 id=&quot;wen-ti-jiu-cheng-wei-ni-yao-zhi-zuo-shi-yao-chan-pin&quot;&gt;问题就成为：你要制作什么产品？&lt;a class=&quot;zola-anchor&quot; href=&quot;#wen-ti-jiu-cheng-wei-ni-yao-zhi-zuo-shi-yao-chan-pin&quot; aria-label=&quot;Anchor link for: wen-ti-jiu-cheng-wei-ni-yao-zhi-zuo-shi-yao-chan-pin&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;这就成为一个产品方法论问题。&lt;br &#x2F;&gt;
+常规的回答是解决问题。就是一个能够解决普遍问题的方案，就是一个产品。&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Rust：涌现统计语言</title>
+          <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://ikeepo.github.io/blog/rust-springup-statistics-programminglanguage/</link>
+          <guid>https://ikeepo.github.io/blog/rust-springup-statistics-programminglanguage/</guid>
+          <description>&lt;p&gt;Rust语言当前炙手可热，集合高级语言的易写、系统语言的快速执行，唯独ownership+lifetime在编译通过环节增加阻力。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ying-yong-chang-jing&quot;&gt;应用场景&lt;a class=&quot;zola-anchor&quot; href=&quot;#ying-yong-chang-jing&quot; aria-label=&quot;Anchor link for: ying-yong-chang-jing&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;表扬Rust的通俗故事有这么几个：&lt;br &#x2F;&gt;
+微软发现其推送的漏洞70%与内存泄漏有关，Rust恰恰能在编写时候就可以发现此类漏洞，由此采用Rust；&lt;br &#x2F;&gt;
+Amazon Prime Video用Rust Wasm实现一次编写、同时应用给8000多种设备；&lt;br &#x2F;&gt;
+Google用Rust改写部分底层功能；&lt;br &#x2F;&gt;
+华为用Rust写了个虚拟机；&lt;br &#x2F;&gt;
+Rust for Linux；&lt;br &#x2F;&gt;
+Blockchain；&lt;br &#x2F;&gt;
+自动驾驶；&lt;br &#x2F;&gt;
+关于选择新技术的价值就不过多赘述，这里谈两点对Rust语言的思考：&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;geng-xian-dai-yong-xian-tong-ji-bian-cheng-yu-yan-di-yi-bu&quot;&gt;更现代：涌现统计编程语言第一步&lt;a class=&quot;zola-anchor&quot; href=&quot;#geng-xian-dai-yong-xian-tong-ji-bian-cheng-yu-yan-di-yi-bu&quot; aria-label=&quot;Anchor link for: geng-xian-dai-yong-xian-tong-ji-bian-cheng-yu-yan-di-yi-bu&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;“更现代”是一个非常笼统但比较合适的描述。&lt;br &#x2F;&gt;
+这里的现代指“更符合当下的科学理念”，更确切的描述是指用统计学取代专家进行指导。当代人工智能的蓬勃发展架构于“统计学”理论之上，其爆发之前，主宰人工智能的设计理念是“专家知识”。&lt;&#x2F;p&gt;
+&lt;p&gt;Rust之于之前的编程语言，更不易出错，这个令之脱颖而出的功能并不是通过高屋建瓴的天才智慧，而是一系列safety rules。这些rules的存在是前人在进行之前各种语言编程中遇到问题的总结，是一种统计学认知下的有意限制。&lt;br &#x2F;&gt;
+正是这些规则的应用，使得Rust堪称编程语言的一个里程碑产品。&lt;br &#x2F;&gt;
+Rust当然不会是编程语言的终极产品，但却是编程语言新时代的开创者。高德地图的导航里经常会说一句话，在开车时听到这句话总觉得它是多此一句，放在这里却非常应景：虽然前方拥堵，但您依然在最优路线上。&lt;&#x2F;p&gt;
+&lt;p&gt;通过rules的使用而使得基础产品获得更高级的能力，这一点恰恰是复杂系统的涌现，从这个角度思考，Rust就显得更更现代了。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;gua-he-da-gui-mo-xie-zuo-wen-dang-ji-quan-wei&quot;&gt;适合大规模协作：文档即权威&lt;a class=&quot;zola-anchor&quot; href=&quot;#gua-he-da-gui-mo-xie-zuo-wen-dang-ji-quan-wei&quot; aria-label=&quot;Anchor link for: gua-he-da-gui-mo-xie-zuo-wen-dang-ji-quan-wei&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;lints是一系列编程教官，秉承相同理念的教官在同一个项目中时刻规范每个协作者的动作。&lt;br &#x2F;&gt;
+因为lint的存在，每个协作者在写好自身代码的同时，已经是在配合整个项目。&lt;&#x2F;p&gt;
+&lt;p&gt;也可以从“文档即权威”的角度来看待这个观察。&lt;br &#x2F;&gt;
+不管哪个团队，权威的存在是必要的，久远之前一个高瞻远瞩的“领导”是这个权威，随着知识体系的爆发式扩张，任何领导已无法系统性掌握所有领域的知识，当下所谓的扁平化组织是一种被迫选择，并非基于权利、公平等“美丽概念”的态度；当“领导(user)”无法完成“权威(role)”的角色时，“权威(role)”的需求依然存在，此时“文档”就站出来承担“权威”这个role。&lt;br &#x2F;&gt;
+同理，lints作为共识下的文档，对于协作编程的项目来说，就是权威这个role。&lt;&#x2F;p&gt;
+&lt;p&gt;当然，这些都是在编程的基础属性层面的探讨，而非代码的技巧性问题。&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
