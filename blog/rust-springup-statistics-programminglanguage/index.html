@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="apple-mobile-web-app-capable" content="yes">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="
+    对Rust的思考
+">
+      <meta name="author" content="iKeepo">
+      <title>iKeepo</title>
+      <link rel="stylesheet" href="https://ikeepo.github.io/site.css?h=6dba58370284a334effb" />
+      <link rel="shortcut icon" type="image/png" href="https://ikeepo.github.io/favicon.ico"/>
+      <link href="https://ikeepo.github.io/rss.xml" rel="feed" type="application/rss+xml" title="iKeepo" />
+    </head>
+
+    <header id="header">
+        <h1 class="logo">
+            <a href="/">iKeepo</a>
+        </h1>
+        <ul>
+            <li><a href="/blog/">Blog</a></li>
+        </ul>
+    </header>
+
+    <div id="content">
+        
+    <div class="post">
+        <div class="post__title">
+            <h1>Rust：涌现统计语言</h1>
+            <div class="post__meta">
+                2022-02-20
+                
+            </div>
+            <hr />
+        </div>
+
+        <div class="post__body">
+            <p>Rust语言当前炙手可热，集合高级语言的易写、系统语言的快速执行，唯独ownership+lifetime在编译通过环节增加阻力。</p>
+<h2 id="ying-yong-chang-jing">应用场景<a class="zola-anchor" href="#ying-yong-chang-jing" aria-label="Anchor link for: ying-yong-chang-jing">🔗</a></h2>
+<p>表扬Rust的通俗故事有这么几个：<br />
+微软发现其推送的漏洞70%与内存泄漏有关，Rust恰恰能在编写时候就可以发现此类漏洞，由此采用Rust；<br />
+Amazon Prime Video用Rust Wasm实现一次编写、同时应用给8000多种设备；<br />
+Google用Rust改写部分底层功能；<br />
+华为用Rust写了个虚拟机；<br />
+Rust for Linux；<br />
+Blockchain；<br />
+自动驾驶；<br />
+关于选择新技术的价值就不过多赘述，这里谈两点对Rust语言的思考：</p>
+<h2 id="geng-xian-dai-yong-xian-tong-ji-bian-cheng-yu-yan-di-yi-bu">更现代：涌现统计编程语言第一步<a class="zola-anchor" href="#geng-xian-dai-yong-xian-tong-ji-bian-cheng-yu-yan-di-yi-bu" aria-label="Anchor link for: geng-xian-dai-yong-xian-tong-ji-bian-cheng-yu-yan-di-yi-bu">🔗</a></h2>
+<p>“更现代”是一个非常笼统但比较合适的描述。<br />
+这里的现代指“更符合当下的科学理念”，更确切的描述是指用统计学取代专家进行指导。当代人工智能的蓬勃发展架构于“统计学”理论之上，其爆发之前，主宰人工智能的设计理念是“专家知识”。</p>
+<p>Rust之于之前的编程语言，更不易出错，这个令之脱颖而出的功能并不是通过高屋建瓴的天才智慧，而是一系列safety rules。这些rules的存在是前人在进行之前各种语言编程中遇到问题的总结，是一种统计学认知下的有意限制。<br />
+正是这些规则的应用，使得Rust堪称编程语言的一个里程碑产品。<br />
+Rust当然不会是编程语言的终极产品，但却是编程语言新时代的开创者。高德地图的导航里经常会说一句话，在开车时听到这句话总觉得它是多此一句，放在这里却非常应景：虽然前方拥堵，但您依然在最优路线上。</p>
+<p>通过rules的使用而使得基础产品获得更高级的能力，这一点恰恰是复杂系统的涌现，从这个角度思考，Rust就显得更更现代了。</p>
+<h2 id="gua-he-da-gui-mo-xie-zuo-wen-dang-ji-quan-wei">适合大规模协作：文档即权威<a class="zola-anchor" href="#gua-he-da-gui-mo-xie-zuo-wen-dang-ji-quan-wei" aria-label="Anchor link for: gua-he-da-gui-mo-xie-zuo-wen-dang-ji-quan-wei">🔗</a></h2>
+<p>lints是一系列编程教官，秉承相同理念的教官在同一个项目中时刻规范每个协作者的动作。<br />
+因为lint的存在，每个协作者在写好自身代码的同时，已经是在配合整个项目。</p>
+<p>也可以从“文档即权威”的角度来看待这个观察。<br />
+不管哪个团队，权威的存在是必要的，久远之前一个高瞻远瞩的“领导”是这个权威，随着知识体系的爆发式扩张，任何领导已无法系统性掌握所有领域的知识，当下所谓的扁平化组织是一种被迫选择，并非基于权利、公平等“美丽概念”的态度；当“领导(user)”无法完成“权威(role)”的角色时，“权威(role)”的需求依然存在，此时“文档”就站出来承担“权威”这个role。<br />
+同理，lints作为共识下的文档，对于协作编程的项目来说，就是权威这个role。</p>
+<p>当然，这些都是在编程的基础属性层面的探讨，而非代码的技巧性问题。</p>
+
+        </div>
+    </div>
+
+    </div>
+    <div>Fuck Away Learning, Let's Training</div>
+
+  <body>
+  </body>
+</html>
